@@ -1,0 +1,32 @@
+div{
+    padding:10px;
+    width:50%;
+    margin-top; 10px;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-left: auto;
+    
+}
+
+div p{
+    font-weight:200;
+    background-color: chartreuse;
+}
+
+p{
+    background-color: cornsilk;
+    color:chocolate;
+    margin:0px;
+    border-top: solid green;
+    border-bottom: solid green;
+}
+
+span{
+    background-color:darkblue;
+    color:white;
+}
+
+div{
+    padding:40px;
+    font-weight:800;
+}
